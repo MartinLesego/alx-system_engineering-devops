@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-music
-=======
-Video
->>>>>>> 9cf0f5025be7041b7bde7a5149890f29fef82e0b
+pwd
